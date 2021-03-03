@@ -1,0 +1,2 @@
+This project will work to make a better command software using python 
+we will try to make it better later 
